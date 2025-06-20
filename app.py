@@ -160,7 +160,7 @@ def main():
         unsafe_allow_html=True,
     )
     default_text = (
-        "Welcome to the Stramlit Audio Experience. "
+        "Welcome to the Streamlit Audio Experience. "
         "Developed by Shashank to assist the creative design team in voice-over editing."
     )
     text = st.text_area(
